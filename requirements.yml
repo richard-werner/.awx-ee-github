@@ -1,0 +1,8 @@
+---
+collections:
+  - name: amazon.aws
+  - name: azure.azcollection
+  - name: ansible.windows
+  - name: cisco.ios
+  - name: cisco.meraki
+  - name: fortinet.fortios
